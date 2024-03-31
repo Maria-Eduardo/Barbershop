@@ -246,12 +246,8 @@ legend{
     align-items: center;
     height: 100vh;
     width: 100%;
-}
-center{
-    height: ;
-  
+}  
 
-}
 .h1
 {
   background-color: #201f1f;
@@ -263,7 +259,7 @@ center{
 footer{
     background-color:#010;
     padding-top: 0px;
-    margin-bottom: 20;
+    margin-bottom: 0;
 }
 .footer{
     color: #B28756;
