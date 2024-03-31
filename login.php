@@ -54,7 +54,7 @@
         </div>    
 
     </center>
-    <footer style ="margin-top:-100px">
+    <footer>
         <div class="footer">Barbershop &copy; 2024. Todos os direitos reservados.<br> Desenvolvido por:  <a href="www.marianelembe.com"> Maria Nelembe</a></div>
          
     </footer>
